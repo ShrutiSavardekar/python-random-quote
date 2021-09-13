@@ -6,5 +6,5 @@ def main():
   #f.close()
 
   #print(quotes)
-if __name__== "__main__":
-    main()
+    if __name__== "__main__":
+        main()
